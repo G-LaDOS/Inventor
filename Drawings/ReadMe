@@ -1,1 +1,8 @@
-How to Use
+How to Open Drawings
+
+1. Download Drawing
+2. An error will pop up saying you need to find the right program to open the IDW.
+3. Locate the file path for 'Inventor.ex' which will vary open system. Mine is C:\Program Files\Autodesk\Inventor 2016\Bin, then scroll or search for "Inventor.exe"
+4. Select Inventor.exe 
+5. Another box will pop up, just click open.
+6. File will open.
